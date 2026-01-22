@@ -1,13 +1,8 @@
-<<### IntelliJ IDEA ###
+### IntelliJ IDEA ###
 out/
-!**/src/main/**/out/
-!**/src/test/**/out/
-.kotlin
 .idea/
 *.iml
-
-=======
->>>>>>> 798c1359165f378e465d096313caa3f12fecee11
+.kotlin
 
 ### Eclipse ###
 .apt_generated
@@ -18,8 +13,6 @@ out/
 .springBeans
 .sts4-cache
 bin/
-!**/src/main/**/bin/
-!**/src/test/**/bin/
 
 ### NetBeans ###
 /nbproject/private/
@@ -32,12 +25,5 @@ bin/
 .vscode/
 
 ### Mac OS ###
-<<<<<<< HEAD
 .DS_Store
-=======
-.DS_Store
-=======
-*.iml
-.idea
->>>>>>> e9331a54c141ddb09d17dca1de43618a77204b1a
->>>>>>> 798c1359165f378e465d096313caa3f12fecee11
+
